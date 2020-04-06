@@ -94,15 +94,19 @@
     * Consideraciones para el despliegue: AWS EKS, AWS ECS, AWS Fargate
   * Pruebas de la API usando la aplicación Postman
 
-* **Polyglot Persistence layer && Not-Only SQL (NoSQL)**:
-  * **Relational Databases**:
-    * Relational Database modeling, principles and best practices.
-  * **Time Series Databases**: [InfluxDB](https://www.influxdata.com/).
-  * **Document Databases**: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_colombia_search_brand_atlas_desktop&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&gclid=CjwKCAjw4KD0BRBUEiwA7MFNTaXgR5gxbpm9vmvLtPLnBkdaqBr9fWxMFSpO9orpBlAC0zC0R5RAGBoCnVEQAvD_BwE).
-  * **Key-value store**: [AWS Dynamodb](https://aws.amazon.com/es/dynamodb/).
-  * **BONUS - Graph Databases**: [Neo4j](https://neo4j.com/) && [OrientDB](https://orientdb.com/).
-  * Persistent python objects in SQL and NoSQL databases
-  * Unittests for database call with docker
+* Capa de persistencia y No solamente SQL 
+  * Bases de datos relacionales
+    * Principios, modelado y buenas prácticas
+  * Bases de datos de series de tiempo
+    * [InfluxDB](https://www.influxdata.com/)
+  * Bases de datos documentales
+    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_colombia_search_brand_atlas_desktop&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&gclid=CjwKCAjw4KD0BRBUEiwA7MFNTaXgR5gxbpm9vmvLtPLnBkdaqBr9fWxMFSpO9orpBlAC0zC0R5RAGBoCnVEQAvD_BwE)
+  * Bases de datos llave-valor
+    * [AWS Dynamodb](https://aws.amazon.com/es/dynamodb/)
+  * Bases de datos orientada a grafos
+    * [Neo4j](https://neo4j.com/) && [OrientDB](https://orientdb.com/).
+  * Persistencia de objetos en bases de datos SQL and NoSQL
+  * Pruebas unitarias para persistencia empleando contendores virtuales
 
 * Visualización
   * Configurando un ambiente con InfluxDB y Grafana
@@ -141,6 +145,6 @@
 * https://www.jetbrains.com/help/pycharm/quick-start-guide.html
 
 ## En Proceso
-Definición de subtemas en el temario
-Mapeo de caso de uso y temario
-Definición de tiempo por cada sesión
+* Definición de subtemas en el temario
+* Mapeo de caso de uso y temario
+* Definición de tiempo por cada sesión
