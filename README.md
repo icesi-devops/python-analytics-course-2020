@@ -1,5 +1,6 @@
 # Curso de actualización en Python 2020B
-# Enfasis en manejo de IDE y guiado por una aplicación de analítica de datos
+* Enfasis en manejo de IDE
+* Guiado por la construcción de una aplicación de analítica de datos
 
 ## Objetivos
 
@@ -143,8 +144,3 @@
 
 ## Referencias
 * https://www.jetbrains.com/help/pycharm/quick-start-guide.html
-
-## En Proceso
-* Definición de subtemas en el temario
-* Mapeo de caso de uso y temario
-* Definición de tiempo por cada sesión
