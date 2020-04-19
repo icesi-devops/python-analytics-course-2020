@@ -55,7 +55,7 @@ Github allows you to use your github repository as a website host if you create 
 ![][4]
 **Figure 4.** Create branch
 
-```
+```console
 ➜ firefox https://d4n13lbc.github.io/reveal.js/#/1
 ```
 
