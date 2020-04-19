@@ -42,22 +42,29 @@ cd reveal.js
 firefox index.html
 ```
 
-The forked repository already has a gh-pages branch, which allows you to expose the reposity content as a website
+Github allows you to use your github repository as a website host if you create an additional branch named **gh-pages**. The forked repository already has a gh-pages branch but you will have to delete it and create it again in order to visualize your slides in a website
+
+![][4]
+**Figure 4.** Delete branch
+
+![][5]
+**Figure 5.** Create branch
+
 ```
 firefox https://d4n13lbc.github.io/reveal.js/#/1
 ```
 
-![][4]
-**Figure 4.** Example website
+![][6]
+**Figure 6.** Example website
 
 ##  Activities
-Check the reveal.js repository and do a presentation about another github open source project
+1. Check the reveal.js repository and do a presentation about another github open source project
+
+1. Delete the create GitHub repository
 
 [1]: images/0_fork.png
 [2]: images/1_clone_url.png
 [3]: images/2_git_clone.png
-[4]: images/3_example_website.png
-
-<!--
-## Delete a Github repository
--->
+[4]: images/3_delete_branch.png
+[5]: images/4_create_branch.png
+[6]: images/5_example_website.png
