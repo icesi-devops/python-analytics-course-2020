@@ -65,7 +65,7 @@ Github allows you to use your github repository as a website host if you create 
 ##  Activities
 1. Check the reveal.js repository and do a presentation about another github open source project
 
-1. Delete the create GitHub repository
+1. Delete the created GitHub repository
 
 ## References
 * https://revealjs.com
