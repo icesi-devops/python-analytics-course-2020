@@ -3,7 +3,7 @@
 ## Exercise 1
 
 In this exercise we will learn the concepts
-of fork, clone. We will also learn about a technology for creating slides that can be stored in github and viewed in any internet browser.
+of fork, brach, and clone. We will also learn about a technology for creating slides that can be stored in github and viewed in any internet browser.
 
 Open a ubuntu terminal and execute the following commands:
 
@@ -66,6 +66,9 @@ Github allows you to use your github repository as a website host if you create 
 1. Check the reveal.js repository and do a presentation about another github open source project
 
 1. Delete the create GitHub repository
+
+## References
+* https://revealjs.com
 
 [1]: images/1_fork.png
 [2]: images/2_clone_url.png
