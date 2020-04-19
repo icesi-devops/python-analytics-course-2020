@@ -6,9 +6,10 @@ In this exercise we will learn the concepts
 of fork, clone. We will also learn about a technology for creating slides that can be stored in github and viewed in any internet browser.
 
 Open a ubuntu terminal and execute the following commands:
-```
-sudo apt update
-sudo apt install git
+
+```console
+➜ sudo apt update
+➜ sudo apt install git
 ```
 
 Go to the url https://github.com and create a Github account.
@@ -28,43 +29,46 @@ Go to your forked repository and copy the https clone url. The ssh url allows yo
 Create a new folder called Repositories in your Documents folder
 
 Do a git clone of the forked url
+```console
+➜  git clone https://github.com/d4n13lbc/reveal.js.git
+Cloning into 'reveal.js'...
+remote: Enumerating objects: 173, done.
+remote: Counting objects: 100% (173/173), done.
+remote: Compressing objects: 100% (93/93), done.
+remote: Total 13001 (delta 90), reused 136 (delta 74), pack-reused 12828
+Receiving objects: 100% (13001/13001), 11.21 MiB | 2.25 MiB/s, done.
+Resolving deltas: 100% (7285/7285), done.
 ```
-git clone https://github.com/d4n13lbc/reveal.js.git
-```
-
-![][3]
-**Figure 3.** Git clone command output
 
 Get into the reveal.js folder and open the index.html file in your favorite browser
 
-```
-cd reveal.js
-firefox index.html
+```console
+➜ cd reveal.js
+➜ firefox index.html
 ```
 
 Github allows you to use your github repository as a website host if you create an additional branch named **gh-pages**. The forked repository already has a gh-pages branch but you will have to delete it and create it again in order to visualize your slides in a website
 
+![][3]
+**Figure 3.** Delete branch
+
 ![][4]
-**Figure 4.** Delete branch
+**Figure 4.** Create branch
+
+```
+➜ firefox https://d4n13lbc.github.io/reveal.js/#/1
+```
 
 ![][5]
-**Figure 5.** Create branch
-
-```
-firefox https://d4n13lbc.github.io/reveal.js/#/1
-```
-
-![][6]
-**Figure 6.** Example website
+**Figure 5.** Example website
 
 ##  Activities
 1. Check the reveal.js repository and do a presentation about another github open source project
 
 1. Delete the create GitHub repository
 
-[1]: images/0_fork.png
-[2]: images/1_clone_url.png
-[3]: images/2_git_clone.png
-[4]: images/3_delete_branch.png
-[5]: images/4_create_branch.png
-[6]: images/5_example_website.png
+[1]: images/1_fork.png
+[2]: images/2_clone_url.png
+[3]: images/3_delete_branch.png
+[4]: images/4_create_branch.png
+[5]: images/5_example_website.png
