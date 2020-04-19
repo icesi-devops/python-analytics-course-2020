@@ -47,12 +47,16 @@ The forked repository already has a gh-pages branch, which allows you to expose 
 firefox https://d4n13lbc.github.io/reveal.js/#/1
 ```
 
+![][4]
+**Figure 4.** Example website
+
 ##  Activities
 Check the reveal.js repository and do a presentation about another github open source project
 
 [1]: images/0_fork.png
 [2]: images/1_clone_url.png
 [3]: images/2_git_clone.png
+[4]: images/3_example_website.png
 
 <!--
 ## Delete a Github repository
