@@ -5,13 +5,6 @@
 In this exercise we will learn the concepts
 of fork, brach, and clone. We will also learn about a technology for creating slides that can be stored in github and viewed in any internet browser.
 
-Open a ubuntu terminal and execute the following commands:
-
-```console
-➜ sudo apt update
-➜ sudo apt install git
-```
-
 Go to the url https://github.com and create a Github account.
 
 Log in your account.
@@ -26,7 +19,7 @@ Go to your forked repository and copy the https clone url. The ssh url allows yo
 ![][2]
 **Figure 2.** Clone URL
 
-Create a new folder called Repositories in your Documents folder
+Create a new folder called **Repositories** in your Documents folder
 
 Do a git clone of the forked url
 ```console
