@@ -3,7 +3,7 @@
 ## Exercise 1
 
 In this exercise we will learn the concepts
-of fork, brach, and clone. We will also learn about a technology for creating slides that can be stored in github and viewed in any internet browser.
+of fork, bramch, and clone. We will also learn about a technology for creating slides that can be stored in github and viewed in any internet browser.
 
 Go to the url https://github.com and create a Github account.
 
