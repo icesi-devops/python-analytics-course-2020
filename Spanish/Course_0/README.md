@@ -72,9 +72,18 @@
     * Gitlab Flow
     * BitBucket Flow
 
-# Realizar la planeación de un proyecto
-# Emplear github como una herramienta que apoye el seguimiento de un proyecto
-* Metodologías ágiles (3 horas)
+### Unidad 3
+
+### Objetivos
+* Realizar la planeación de un proyecto
+* Emplear github como una herramienta que apoye el seguimiento de un proyecto
+
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* Metodologías ágiles 
   * Introducción
   * Planeación y seguimiento
     * Proyecto
@@ -88,16 +97,34 @@
     * Rally
     * Jira
 
-# Entender la importancia de manejar ambientes virtuales
-# Realizar aplicaciones que se ejecuten sobre ambientes virtuales
-* Configuración de ambientes virtuales en Python (3 horas)
+### Unidad 4
+
+### Objetivos
+* Entender la importancia de manejar ambientes virtuales
+* Realizar aplicaciones que se ejecuten sobre ambientes virtuales
+
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* Configuración de ambientes virtuales en Python 
   * Gestión de versiones de Python con pyenv
   * Gestión de ambientes virtuales con mkvirtualenvwrapper
   * Gestión de librerias por ambiente de desarrollo
 
-# Emplear un editor para la creación de un proyecto
-# Hacer uso de las funcionalidades de un editor para optimizar el tiempo de programación
-* PyCharm IDE Basics (6 horas)
+### Unidad 5
+
+### Objetivos
+* Emplear un editor para la creación de un proyecto
+* Hacer uso de las funcionalidades de un editor para optimizar el tiempo de programación
+
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* PyCharm IDE Basics 
   * Creación de un proyecto
   * Creación de una plantilla de proyecto
   * Configuración de ambientes virtuales
@@ -107,9 +134,18 @@
   * Analisis de código estatico con flake8,
   * Covertura con pycoverage
 
-# Identificar los tipos de pruebas
-# Realizar pruebas sobre una aplicación
-* Bateria de pruebas (6 horas)
+### Unidad 6
+
+### Objetivos
+* Identificar los tipos de pruebas
+* Realizar pruebas sobre una aplicación
+
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* Bateria de pruebas 
   * Diseño guiado por las pruebas (TDD)
   * Diseño guiado por el comportamiento (BDD)
   * Pruebas unitarias with pytest and tox
@@ -117,16 +153,34 @@
   * Pruebas de humo
   * Pruebas de carga
 
-# Entender el concepto de arquitectura orientada a servicio
-* SOA (3 horas)
+### Unidad 7
+
+### Objetivo
+* Entender el concepto de arquitectura orientada a servicio
+
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* SOA 
   * Introduccion a las arquitecturas orientadas a servicios (SOA)
   * Implementacion SOA
   * Implementacion REST
   * Implementacion GRAPHQL
   * Implementación GRPC
 
-# Implementar un API Rest para proveer un servicio
-* REST (9 horas)
+### Unidad 8
+
+### Objetivo
+* Implementar un API Rest para proveer un servicio
+
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* REST 
   * Introducción a OpenAPI
   * Diseño de API y buenas prácticas
   * Creación de la especificación de un API usando OpenAPI 3.0
@@ -139,8 +193,17 @@
   * Configuración de un servidor de aplicación: UWSGI, AIO, Unicorn
   * Pruebas locales de la API empleando la aplicación Postman
 
-# Emplear mecanismos de integración continua para el despliegue de servicios
-* Integración continua y despliegue continuo (CI/CD) (9 horas)
+
+### Unidad 9
+
+### Objetivo
+* Emplear mecanismos de integración continua para el despliegue de servicios
+### Duración
+X horas 
+<!-- duración pendiente por definir -->
+### Temas
+
+* Integración continua y despliegue continuo (CI/CD) 
   * Definición de flujos de desarrollo
     * Bateria de pruebas
     * Entrega continua
